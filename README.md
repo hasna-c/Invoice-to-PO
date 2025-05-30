@@ -1,5 +1,5 @@
 # Invoice-to-PO
-# Invoice to Purchase Order App
+
 
 This is a Flutter app that uses OpenAI’s GPT-4o Vision model to get purchase order details from pictures of invoices.
 
